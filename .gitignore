@@ -12,3 +12,9 @@ __pycache__/
 
 # Ignore security file
 /security.py
+
+# Ignore migrations
+/taxi/migrations
+
+# Ignore db
+db.sqlite3
